@@ -1,1 +1,15 @@
 # REPORT_GEN
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : GALLA PRADEEP KUMAR
+
+**INTERN ID** : CT6WDS2739
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (6)](https://github.com/user-attachments/assets/f280af18-517c-4698-8630-e01f33f2f268)
